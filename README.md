@@ -1,6 +1,6 @@
 # to-do-app-pern
 
-<h1 align="center">Todo App</h1>
+<h1 align="center">PERN Todo App</h1>
 
 <h3>About</h3>
 <p>The Todo-App is a task managing Web-Application to help its users to stay organized for their day to day activities.</p> 
